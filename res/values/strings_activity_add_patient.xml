@@ -1,0 +1,12 @@
+<resources>
+    <string name="prompt">Patient information</string>
+    <string name="lastName">Surname</string>
+    <string name="firstName">Given name</string>
+    <string name="dob">Date of birth: YYYY-MM-DD</string>
+    <string name="healthCard">Health card number</string>
+    <string name="time">Time:</string>
+    <string name="action_accept">Save Patient</string>
+    <string name="action_discard">Discard</string>
+    <string name="success">Patient added to database</string>
+    <string name="patient_exists">Health card number already in database</string>
+</resources>

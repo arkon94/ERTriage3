@@ -1,0 +1,18 @@
+<resources>
+    <string name="dob_head">DATE OF BIRTH</string>
+    <string name="healthCard_head">HEALTH CARD</string>
+    <string name="arrival_head">ARRIVAL TIME</string>
+    <string name="urgency_head">URGENCY</string>
+    <string name="improving_head">CONDITION</string>
+    <string name="vitals_head">Vital signs history</string>
+    <string name="symptoms_head">Symptoms history</string>
+    <string name="doctor_head">Times seen by doctor</string>
+    <string name="prescription_head">Prescription history</string>
+    <string name="empty">\nNo records\n</string>
+    <string name="action_add">+</string>
+    <string name="action_vitals">Record vitals</string>
+    <string name="action_symptoms">Record symptoms</string>
+    <string name="action_prescription">Record prescription</string>
+    <string name="action_doctor">Seen by doctor</string>
+    <string name="action_delete">Delete patient</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_accept_symptoms">Update Symptoms</string>
+    <string name="symptoms_description_head">Symptoms</string>
+    <string name="symptoms">Descriptions</string>
+    <string name="equals_error">Cannot have \'=\' signs</string>
+</resources>

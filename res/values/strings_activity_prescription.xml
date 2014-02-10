@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_accept_prescription">Update Prescription</string>
+    <string name="prescription_description_head">Add Prescription</string>
+    <string name="medication">Medication</string>
+    <string name="instructions">Instructions</string>
+</resources>

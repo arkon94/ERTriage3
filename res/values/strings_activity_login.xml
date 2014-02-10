@@ -1,0 +1,23 @@
+<resources>
+    <string name="title">TRIAG</string>
+    <string name="title_er">ER</string>
+    <string name="title_activity_login">- NURSES AND PHYSICIANS ONLY -</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password2">Confirm password</string>
+    <string name="prompt_admin">Admin password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="register_prompt">Registration</string>
+    <string name="nurse">Nurse</string>
+    <string name="physician">Physician</string>
+    <string name="empty_fields">All fields must be filled in</string>
+    <string name="user_exists">Username already exists</string>
+    <string name="user_not_found">User not found</string>
+    <string name="wrong_pass">Incorrect password</string>
+    <string name="pass_mismatch">Passwords don\'t match</string>
+    <string name="wrong_admin">Admin password is incorrect</string>
+    <string name="choose_type">Select a user type</string>
+    <string name="commas">Commas are not allowed</string>
+</resources>

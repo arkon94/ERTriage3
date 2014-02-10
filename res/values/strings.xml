@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TriagER</string>
+    <string name="title_activity_patient">Patient Record</string>
+    <string name="title_activity_add_patient">New Patient Record</string>
+    <string name="title_activity_search">Patient Lookup</string>
+    <string name="title_activity_vitals">Record Vitals</string>
+    <string name="title_activity_symptoms">Record Symptoms</string>
+    <string name="title_activity_prescription">Record Prescription</string>
+    <string name="action_signout">SIGN OUT</string>
+    <string name="action_save">Save data</string>
+    <string name="action_new">Record patient data</string>
+    <string name="action_search">Search</string>
+    <string name="action_sort">Sort options</string>
+    <string name="search_hint">Health card number</string>
+    <string name="empty_list">No patients to display</string>
+    <string name="search">Search</string>
+    <string name="file_error">File not found</string>
+    <string name="save_error">Save error</string>
+    <string name="patients_saved">Saved patient database</string>
+    <string name="patient_error">Patient not found</string>
+</resources>

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:triager="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_vitals"
+        android:orderInCategory="100"
+        android:title="@string/action_vitals"
+        triager:showAsAction="never"/>
+    <item
+        android:id="@+id/action_symptoms"
+        android:orderInCategory="100"
+        android:title="@string/action_symptoms"
+        triager:showAsAction="never"/>
+    <item
+        android:id="@+id/action_doctor"
+        android:orderInCategory="100"
+        android:title="@string/action_doctor"
+        triager:showAsAction="never"/>
+    <item
+        android:id="@+id/action_prescription"
+        android:orderInCategory="100"
+        android:title="@string/action_prescription"
+        triager:showAsAction="never"/>
+</menu>
